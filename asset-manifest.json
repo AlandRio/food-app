@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/food-app/static/css/main.c6a6c13c.css",
+    "main.js": "/food-app/static/js/main.de889ac1.js",
+    "static/js/787.5dc0e2a0.chunk.js": "/food-app/static/js/787.5dc0e2a0.chunk.js",
+    "static/media/about-background.png": "/food-app/static/media/about-background.057f5fc008e4814586dc.png",
+    "static/media/home-image.png": "/food-app/static/media/home-image.ef901d73b53be1a16fa4.png",
+    "static/media/product3-about.png": "/food-app/static/media/product3-about.9c8b30601802c08240f8.png",
+    "static/media/product-shawarma.png": "/food-app/static/media/product-shawarma.a2d5c9a03e12af5d9c80.png",
+    "static/media/home-decoration-up.png": "/food-app/static/media/home-decoration-up.7d219b9f105ba5617957.png",
+    "static/media/home-decoration.png": "/food-app/static/media/home-decoration.b8af7637abd56e21b124.png",
+    "static/media/home-decoration-full.png": "/food-app/static/media/home-decoration-full.700b32716a8f54c81c5c.png",
+    "static/media/product2.png": "/food-app/static/media/product2.abfc711a45ffb6541f1f.png",
+    "static/media/product3.png": "/food-app/static/media/product3.39b29c5618f9076ffd30.png",
+    "static/media/product1.png": "/food-app/static/media/product1.483ebb9d11ee80f435b7.png",
+    "static/media/Design.png": "/food-app/static/media/Design.276e2da80199d3ac0d67.png",
+    "static/media/stats-design.png": "/food-app/static/media/stats-design.276e2da80199d3ac0d67.png",
+    "static/media/about-decoration-down.png": "/food-app/static/media/about-decoration-down.38ca51d92a3a9a749f9e.png",
+    "static/media/WhatsApp.png": "/food-app/static/media/WhatsApp.de12023785f2aca9fc35.png",
+    "static/media/Instagram.png": "/food-app/static/media/Instagram.67f548b640e03d805435.png",
+    "static/media/Twitter.png": "/food-app/static/media/Twitter.2a1fd186c2412246296b.png",
+    "index.html": "/food-app/index.html",
+    "main.c6a6c13c.css.map": "/food-app/static/css/main.c6a6c13c.css.map",
+    "main.de889ac1.js.map": "/food-app/static/js/main.de889ac1.js.map",
+    "787.5dc0e2a0.chunk.js.map": "/food-app/static/js/787.5dc0e2a0.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c6a6c13c.css",
+    "static/js/main.de889ac1.js"
+  ]
+}
